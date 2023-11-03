@@ -36,3 +36,9 @@ WHERE cond=2;
 ```
 ### RESULTS
 The Sales has been increased in the future years.
+😄
+💻
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Python|SQL|
